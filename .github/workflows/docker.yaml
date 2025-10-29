@@ -38,4 +38,4 @@ jobs:
           context: .
           push: true
           file: ./docker/Dockerfile
-          labels: mamutuberalles/my-docker-template
+          tags: mamutuberalles/my-docker-template
